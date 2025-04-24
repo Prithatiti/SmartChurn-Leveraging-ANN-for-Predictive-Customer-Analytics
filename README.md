@@ -1,1 +1,1 @@
-# SmartChurn-Leveraging-ANN-for-Predictive-Customer-Analytics
+# SmartChurn Leveraging ANN for Predictive Customer Analytics
